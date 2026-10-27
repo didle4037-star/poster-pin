@@ -2,6 +2,12 @@
 
 [한국어 설명](README.ko.md)
 
+## Introduction video
+
+[![Print & Pin introduction video](https://i.ytimg.com/vi/AwLWuNOE6Js/hqdefault.jpg)](https://youtu.be/AwLWuNOE6Js)
+
+[Watch: I Made 2 Blender Add-ons That Turn Images Into a Poster Wall | Print & Pin](https://youtu.be/AwLWuNOE6Js)
+
 Scatter and place posters on walls, curved surfaces, and strings in Blender, with layers, tape, pins, and clips.
 
 Poster Pin is part of **Print & Pin**. It can be used on its own or together with **[Poster Print](https://github.com/didle4037-star/poster-print)**: Poster Print creates the source posters, and Poster Pin arranges them in the scene.

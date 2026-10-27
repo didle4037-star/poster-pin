@@ -2,6 +2,12 @@
 
 [English](README.md)
 
+## 소개 영상
+
+[![Print & Pin introduction video](https://i.ytimg.com/vi/AwLWuNOE6Js/hqdefault.jpg)](https://youtu.be/AwLWuNOE6Js)
+
+[Watch: I Made 2 Blender Add-ons That Turn Images Into a Poster Wall | Print & Pin](https://youtu.be/AwLWuNOE6Js)
+
 Poster Pin은 Blender에서 포스터를 벽·곡면·줄에 배치하고 레이어와 부착물을 조절하는 애드온입니다.
 
 **Print & Pin** 시리즈의 도구로, 단독으로 사용하거나 **[Poster Print](https://github.com/didle4037-star/poster-print)**와 함께 사용할 수 있습니다. Poster Print로 원본 포스터를 만들고 Poster Pin으로 장면에 배치하는 흐름을 구성할 수 있습니다.
