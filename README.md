@@ -50,3 +50,6 @@ This release uses the legacy add-on format. Use the attached installation archiv
 ## Feedback
 
 Please use this repository's **Issues** for bugs and suggestions. Include the add-on version, Blender version, operating system, reproduction steps, and any error message. Screenshots or a small example file are helpful when relevant.
+
+
+This is a personal project, so replies and fixes may take some time. Thank you for your patience!
